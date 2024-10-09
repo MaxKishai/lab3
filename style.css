@@ -1,0 +1,47 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+
+}
+
+.block1{
+    margin: 10px;
+}
+
+img{
+    width: 400px;
+    height: 284px;
+}
+.box{
+    width: 490px;
+    height: 200px;
+    border: 3px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-collapse: collapse;
+    text-align: center;
+}
+p{
+    display: flex;
+    margin-bottom: 30px;
+    margin-left: 10px;
+
+}
+.a{
+    margin-left: 150px;
+}
+.b{
+    margin-left: 195px;
+}
+.c{
+    margin-left: 268px;
+}
+.d{
+    margin-left: 260px;
+}
+a{
+    margin: 0;
+    padding: 0;
+}
